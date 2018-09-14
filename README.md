@@ -1,5 +1,5 @@
 # 微·职知识库
-> 微·职知识库使用 [GitBook](https://www.gitbook.com/) 构造，内容托管在 https://github.com/buptweizhi/knowledge，内容使用 MarkDown 语言编写，推荐使用 Typora 编写 MarkDown 文件
+> 微·职知识库使用 [GitBook](https://www.gitbook.com/) 构造，内容托管在 https://github.com/buptweizhi/knowledge/ ，内容使用 MarkDown 语言编写，推荐使用 Typora 编写 MarkDown 文件
 
 ## 部署流程
 
