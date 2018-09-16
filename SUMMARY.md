@@ -6,4 +6,4 @@
   * [参考资料](project-system/reference.md)
 * [复盘制](fupan/README.md)
   * [参考资料](fupan/reference.md)
-
+* [知识库使用手册](Instructions.md)
